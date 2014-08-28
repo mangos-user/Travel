@@ -1,0 +1,8 @@
+## Interface: 50001
+## Title: |cffC41F3BDuffedUI|r - Raid DPS/Tank Layout
+## Version: 6.6.3
+## Author: Merith
+## RequiredDeps: Tukui, DuffedUI, DuffedUI_Config
+## X-oUF: oUFTukui
+
+DuffedUI_Raid.lua

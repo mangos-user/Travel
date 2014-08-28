@@ -1,0 +1,7 @@
+## Interface: 50001
+## Title: |cffC41F3BDuffedUI|r - Config
+## Version: 6.6.3
+## Author: Merith
+## RequiredDeps: DuffedUI
+
+config.lua

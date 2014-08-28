@@ -1,0 +1,11 @@
+﻿<Ui xmlns="http://www.blizzard.com/wow/ui/">	
+	<Script file="dispel_announcement.lua" />
+	<Script file="drink_announcement.lua" />
+	<Script file="priest.lua" />
+	<Script file="sayinterrupt.lua" />
+	<Script file="macrobuttons.lua" />
+	<Script file="addonmanager.lua" />
+	<Script file="helpframe.lua" />
+	<Script file="mmbskin.lua" />
+	<Script file="ses.lua" />
+</Ui>

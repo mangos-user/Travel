@@ -1,0 +1,49 @@
+<Ui xmlns="http://www.blizzard.com/wow/ui/">
+	<Script file="locales\english.lua" />
+	<Script file="locales\french.lua" />
+	<Script file="locales\german.lua" />
+	<Script file="locales\chinese.lua" />
+	<Script file="locales\taiwan.lua" />
+	
+	<Script file="core\init.lua" />
+	<Script file="core\functions.lua" />
+	<Script file="core\api.lua" />
+	<Script file="core\install.lua" />
+	<Script file="core\kill.lua" />
+	<Script file="core\commands.lua" />
+	<Script file="core\pops.lua" />
+	<Script file="modules\panels\panels.lua" />
+	<Include file="modules\actionbars\load_ab.xml" />
+	
+	<Script file="modules\unitframes\plugins\classicons.lua" />
+	<Script file="modules\unitframes\layouts\duffed.lua" />
+	<Script file="modules\unitframes\layouts\merith.lua" />
+	<Script file="modules\unitframes\layouts\duffed2.lua" />
+	
+	<Script file="modules\maps\minimap.lua" />
+	<Script file="modules\maps\bossicons.lua" />
+	<Script file="modules\buffs\buffs.lua" />
+	<Script file="modules\buffs\raidcooldowns.lua" />
+	<Script file="modules\buffs\classtimer.lua" />
+	<Script file="modules\buffs\bufftracker.lua" />
+	<Script file="modules\buffs\spellcooldowns.lua" />
+	<Script file="modules\chat\chatframes.lua" />
+	<Script file="modules\chat\copychat.lua" />
+	<Script file="modules\bags\bags.lua" />
+	<Script file="modules\tooltip\spellid.lua" />
+	<Script file="modules\tooltip\hoverlink.lua" />
+	<Include file="modules\duffed\load_duffed.xml" />
+	<Include file="modules\buffnotice\load_bn.xml" />
+	<Script file="modules\misc\combat.lua" />
+	<Script file="modules\misc\flightpoint.lua" />
+	<Include file="modules\misc\flightpoint.xml" />
+	<Script file="modules\misc\ilvlr.lua" />
+	<Script file="modules\misc\mage.lua" />
+	<Script file="modules\misc\mail.lua" />
+	<Script file="modules\misc\raidutilities.lua" />
+	<Script file="modules\misc\sCombo.lua" />
+	<Script file="modules\nameplates\nameplates.lua" />
+	<Script file="modules\ui\petbattles.lua" />
+	<Include file="modules\skins\addons\load_addons.xml" />
+	<Include file="modules\skins\blizzard\load_blizzard.xml" />
+</Ui>

@@ -1,0 +1,9 @@
+## Interface: 50001
+## Title: |cffC41F3BDuffedUI|r - Corefiles
+## Notes: All corefiles for the main UI
+## Version: 6.6.3
+## Author: Merith
+## RequiredDeps: DuffedUI_Config, Tukui
+## X-oUF: oUFTukui
+
+DuffedUI.xml

@@ -1,0 +1,10 @@
+﻿<Ui xmlns="http://www.blizzard.com/wow/ui/">	
+	<Script file="aura_announcement.lua"/>
+	<Script file="dispel_announcement.lua"/>
+	<Script file="drink_announcement.lua"/>
+	<Script file="hattrick.lua"/>
+	<Script file="priest.lua"/>
+	<Script file="sayinterrupt.lua"/>
+	<Script file="settings.lua"/>
+	<Script file="tbtimer.lua"/>
+</Ui>
